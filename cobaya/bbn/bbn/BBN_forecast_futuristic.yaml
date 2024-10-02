@@ -1,0 +1,14 @@
+path: null
+table_file: data/PRyMordial_Yp_DH_ErrorMC_forecast_futuristic.dat
+ombh2_size: 52
+deltaneff_size: 25
+
+include_He: True
+include_DH: True
+
+# PDG 2022
+dh_mean: 2.58319041
+dh_err: 0.025
+yp_mean: 0.245
+yp_err: 0.0015
+
